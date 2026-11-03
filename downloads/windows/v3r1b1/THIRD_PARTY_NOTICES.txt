@@ -1,0 +1,5 @@
+CellCounter GUI v3r1b1 for Windows
+
+MATLAB Runtime and MathWorks components remain subject to their respective terms and accompanying notices.
+
+The maintainer reports that the former third-party TIFF reader was replaced in these corrected binaries. Earlier build metadata does not establish which reader is embedded in this version. Notices for older distributions remain applicable to any older copies containing those components.

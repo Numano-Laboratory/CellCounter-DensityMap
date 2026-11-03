@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Citation metadata for CellCounter-DensityMap."
+type: software
+title: CellCounter-DensityMap
+authors:
+  - family-names: Shinozaki
+    given-names: Ryuto
+  - family-names: Numano
+    given-names: Rika
+repository-code: "https://github.com/Numano-Laboratory/CellCounter-DensityMap"
+license: MIT
+notes: "MIT applies to the published analysis source. GUI binaries have separate usage terms; see downloads/windows/v3r1b1/GUI_LICENSE.md."

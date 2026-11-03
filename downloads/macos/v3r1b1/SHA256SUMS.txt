@@ -1,0 +1,2 @@
+d2a383dec97f326b7a45ca03331aa96303ee1434f7347d8aae0fbd4e14984641  CellCounter_v3r1b1-installer-macOS-AppleSilicon.zip
+16179cbd60b981e6206ff11f4a89da7620fc3dc07a169f80d027370cf6238cfa  CellCounter_v3r1b1-macOS-AppleSilicon.zip

@@ -1,0 +1,36 @@
+# Local MATLAB state and analysis outputs
+*.asv
+*.log
+*.cci
+*.mex*
+slprj/
+codegen/
+build/
+for_testing/
+for_redistribution/
+for_redistribution_files_only/
+# Keep experimental data outside the source distribution.
+data/
+results/
+*.tif
+*.tiff
+*.xlsx
+*.mat
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# GUI source and private distribution artifacts are excluded.
+*.mlapp
+*.mlappinstall
+*.bundle
+/UI/
+/private/
+CellCounter.m
+startCellCounter.m
+
+# Keep copied unpackaged Mac apps local; distribute versioned ZIPs.
+/CellCounter_v3r1b1.app/
+/CellCounter_v3r1b1_installer.app/
+/run_CellCounter_v3r1b1.sh
